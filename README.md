@@ -91,7 +91,7 @@ F1-BI-Dashboard/
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) *(free)*
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/F1-BI-Dashboard.git
+   git clone https://github.com/Feriel5ben/F1-BI-Dashboard.git
    ```
 3. Open `F1_BI.pbix` in Power BI Desktop
 4. If prompted, refresh the data source and point to your local `/data/raw/` folder
